@@ -7,7 +7,7 @@
 
 static char *who = "World";
 module_param(who, charp, 0644);
-MODULE_PARM_DESC(who, "Who whould I greet?");
+MODULE_PARM_DESC(who, "Who should I greet?");
 
 static time64_t load_time;
 
