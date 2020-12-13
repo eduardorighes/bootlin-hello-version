@@ -1,2 +1,2 @@
 # bootlin-hello-version
-hello_version example from Bootlin.
+This is the hello_version example from Bootlin.
